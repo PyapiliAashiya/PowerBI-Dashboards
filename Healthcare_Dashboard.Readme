@@ -1,0 +1,20 @@
+Healthcare Analytics Dashboard
+
+Overview
+This dashboard analyzes patient data, treatment costs, and readmission trends.
+
+Key Metrics
+- Total Patients
+- Average Stay
+- Treatment Cost
+- Readmission Rate
+
+Insights
+- Certain departments have higher treatment costs
+- Readmission rates vary across age groups
+- Patient distribution differs by department
+
+Tools Used
+- Power BI
+- DAX
+- Data Visualization
