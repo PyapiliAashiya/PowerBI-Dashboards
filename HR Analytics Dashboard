@@ -1,0 +1,21 @@
+# HR Analytics Dashboard
+
+## Overview
+This project analyzes employee data to understand attrition trends and workforce insights.
+
+## Key Metrics
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Salary
+- Average Age
+
+## Insights
+- Higher attrition observed in younger employees (18–25)
+- Research & Development department shows highest attrition
+- Certain job roles have higher employee turnover
+
+## Tools Used
+- Power BI
+- DAX
+- Data Visualization
